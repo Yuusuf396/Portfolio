@@ -294,13 +294,7 @@ img {
 .home-container .home-content .home-data-title {
   font-size: var(--big-font-size);
 }
-.home-data-title{
-  /* color: black; */
-}
-.home-data-title.dar{
-  /* color: #fff; */
-}
-
+ 
 .home-container .home-content .home-data-subtitle {
   font-size: var(--h3-font-size);
   color: var(--text-color);
